@@ -1,0 +1,21 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    NonGCCCsponsor:
+      email: test@gmail.com
+      name: Non GCCC sponsor
+      password: $2b$12$mjTHjAe2BklYKPYsdH/gJewHDWQbPP1wz6pLhbXE7O2RQFtTO26ny
+    trainee:
+      email: jsmith@gmail.com
+      name: Trainee
+      password: $2b$12$N2LochcXls4wO7ofGTAsy.JuF.TfQziMb.opNUkb.d4LG77rTmggi.
+    GCCCuser:
+      email: gccc@gmail.com
+      name: GCCC User
+      password: $2b$12$HcNmQZkWqlVb6EM6.IGfdeCIUUF7yHucCjqJHCK96pxcYOR8jwJqa
+preauthorized:
+  emails:
+  - melsby@gmail.com

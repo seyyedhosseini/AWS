@@ -1,0 +1,160 @@
+*********************************************************************
+*********************************************************************
+             EASiTool Output File for Field X CCS Project             
+*********************************************************************
+
+
+
+*********************************************************************
+                        EASiTool Input Data
+*********************************************************************
+                                   Pressure        2900.7536157893824                  psi
+                                Temperature                     149.0                    F
+                                  Thickness          328.083989501312                   ft
+                               Permeability                     100.0                   mD
+                                   Salinity        116545.31200000002                 mg/L
+                   Water Corey Exponent (m)                       3.0                    -
+                     Gas Corey Exponent (n)                       3.0                    -
+                       Rock Compressibility               3.44738e-06                1/psi
+       Maximum Allowable Injection Pressure         5076.318827631419                  psi
+       Endpoint Water Relative Permeability                       1.0                    -
+         Endpoint Gas Relative Permeability                       0.3                    -
+                                   Porosity                       0.2                    -
+                  Residual Water Saturation                       0.5                    -
+                    Critical Gas Saturation                       0.1                    -
+                 # of Injection wells (min)                         1                    -
+                 # of Injection wells (max)                        81                    -
+                      # of Extraction wells                         0                    -
+                               Project Area                   38.6102               mile^2
+                             Reservoir Area                   115.831               mile^2
+                      Injection Well Radius       0.32808398950131235                   ft
+                         Injection Duration                      10.0                 year
+                    Min Extraction Pressure               2755.715935                  psi
+                         Initial Investment                    1000.0                   $M
+         Annual Operational Cost (Upstream)                      10.0                   $M
+       Annual Operational Cost (Downstream)                       1.0              $M/well
+                                 Tax Credit                      85.0                $/ton
+                              Discount Rate                      0.09                    -
+                 Critical Pressure Increase                     350.0                  psi
+                          Simulation Module                       1.0                    -
+                         Boundary Condition                      Open
+
+                                Unit System               Field Units
+
+
+*********************************************************************
+         EASiTool Output Tornado Chart Data
+*********************************************************************
+Mean Values Based on Input Parameters
+Pressure            
+Upper Limit         Ave Inj BHP(psi):   NPV ($M):           
+                    2.961e+03           -6.083e+02          
+Mean                Ave Inj BHP(psi):   NPV ($M):           
+                    2.932e+03           -6.083e+02          
+Lower Limit         Ave Inj BHP(psi):   NPV ($M):           
+                    3.075e+03           -6.083e+02          
+*********************************************************************      
+Temperature         
+Upper Limit         Ave Inj BHP(psi):   NPV ($M):           
+                    2.933e+03           -6.083e+02          
+Mean                Ave Inj BHP(psi):   NPV ($M):           
+                    2.932e+03           -6.083e+02          
+Lower Limit         Ave Inj BHP(psi):   NPV ($M):           
+                    2.932e+03           -6.083e+02          
+*********************************************************************      
+Thickness           
+Upper Limit         Ave Inj BHP(psi):   NPV ($M):           
+                    2.935e+03           -6.083e+02          
+Mean                Ave Inj BHP(psi):   NPV ($M):           
+                    2.932e+03           -6.083e+02          
+Lower Limit         Ave Inj BHP(psi):   NPV ($M):           
+                    2.932e+03           -6.083e+02          
+*********************************************************************      
+Permeability        
+Upper Limit         Ave Inj BHP(psi):   NPV ($M):           
+                    2.936e+03           -6.083e+02          
+Mean                Ave Inj BHP(psi):   NPV ($M):           
+                    2.932e+03           -6.083e+02          
+Lower Limit         Ave Inj BHP(psi):   NPV ($M):           
+                    2.932e+03           -6.083e+02          
+*********************************************************************      
+Salinity            
+Upper Limit         Ave Inj BHP(psi):   NPV ($M):           
+                    2.932e+03           -6.083e+02          
+Mean                Ave Inj BHP(psi):   NPV ($M):           
+                    2.932e+03           -6.083e+02          
+Lower Limit         Ave Inj BHP(psi):   NPV ($M):           
+                    2.932e+03           -6.083e+02          
+*********************************************************************      
+m                   
+Upper Limit         Ave Inj BHP(psi):   NPV ($M):           
+                    2.934e+03           -6.083e+02          
+Mean                Ave Inj BHP(psi):   NPV ($M):           
+                    2.932e+03           -6.083e+02          
+Lower Limit         Ave Inj BHP(psi):   NPV ($M):           
+                    2.932e+03           -6.083e+02          
+*********************************************************************      
+n                   
+Upper Limit         Ave Inj BHP(psi):   NPV ($M):           
+                    2.932e+03           -6.083e+02          
+Mean                Ave Inj BHP(psi):   NPV ($M):           
+                    2.932e+03           -6.083e+02          
+Lower Limit         Ave Inj BHP(psi):   NPV ($M):           
+                    2.944e+03           -6.083e+02          
+*********************************************************************      
+Rock Comp.          
+Upper Limit         Ave Inj BHP(psi):   NPV ($M):           
+                    2.933e+03           -6.083e+02          
+Mean                Ave Inj BHP(psi):   NPV ($M):           
+                    2.932e+03           -6.083e+02          
+Lower Limit         Ave Inj BHP(psi):   NPV ($M):           
+                    2.932e+03           -6.083e+02          
+*********************************************************************      
+Max Inj. Pressure   
+Upper Limit         Ave Inj BHP(psi):   NPV ($M):           
+                    2.932e+03           -6.083e+02          
+Mean                Ave Inj BHP(psi):   NPV ($M):           
+                    2.932e+03           -6.083e+02          
+Lower Limit         Ave Inj BHP(psi):   NPV ($M):           
+                    2.932e+03           -6.083e+02          
+*********************************************************************      
+kra0                
+Upper Limit         Ave Inj BHP(psi):   NPV ($M):           
+                    2.935e+03           -6.083e+02          
+Mean                Ave Inj BHP(psi):   NPV ($M):           
+                    2.932e+03           -6.083e+02          
+Lower Limit         Ave Inj BHP(psi):   NPV ($M):           
+                    2.931e+03           -6.083e+02          
+*********************************************************************      
+krg0                
+Upper Limit         Ave Inj BHP(psi):   NPV ($M):           
+                    2.940e+03           -6.083e+02          
+Mean                Ave Inj BHP(psi):   NPV ($M):           
+                    2.932e+03           -6.083e+02          
+Lower Limit         Ave Inj BHP(psi):   NPV ($M):           
+                    2.932e+03           -6.083e+02          
+*********************************************************************      
+Porosity            
+Upper Limit         Ave Inj BHP(psi):   NPV ($M):           
+                    2.933e+03           -6.083e+02          
+Mean                Ave Inj BHP(psi):   NPV ($M):           
+                    2.932e+03           -6.083e+02          
+Lower Limit         Ave Inj BHP(psi):   NPV ($M):           
+                    2.932e+03           -6.083e+02          
+*********************************************************************      
+Sar                 
+Upper Limit         Ave Inj BHP(psi):   NPV ($M):           
+                    2.932e+03           -6.083e+02          
+Mean                Ave Inj BHP(psi):   NPV ($M):           
+                    2.932e+03           -6.083e+02          
+Lower Limit         Ave Inj BHP(psi):   NPV ($M):           
+                    2.932e+03           -6.083e+02          
+*********************************************************************      
+Sgc                 
+Upper Limit         Ave Inj BHP(psi):   NPV ($M):           
+                    2.932e+03           -6.083e+02          
+Mean                Ave Inj BHP(psi):   NPV ($M):           
+                    2.932e+03           -6.083e+02          
+Lower Limit         Ave Inj BHP(psi):   NPV ($M):           
+                    2.932e+03           -6.083e+02          
+*********************************************************************      
